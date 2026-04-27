@@ -2,6 +2,10 @@
 
 An AI-powered code review assistant that analyzes code and provides feedback, improvement suggestions, and bug fixes. Perfect for developers, code reviewers, and engineering teams.
 
+## Screenshot
+
+![CodeReviewAssistant](CodeReviewAssistant.png)
+
 ## Features
 
 - **Code-Specialized LLM**: Uses DeepSeek-Coder model optimized for code analysis
